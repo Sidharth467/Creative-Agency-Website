@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Creative Agency",
-  description: "Creative agency website",
+  title: "small town films",
+  description: "Creative agency",
 };
 
 export default function RootLayout({
